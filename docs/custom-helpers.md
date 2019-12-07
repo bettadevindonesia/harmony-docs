@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Navigation Structure
+title: Custom Helpers
 nav_order: 5
 ---
 
-# Navigation Structure
+# Custom Helpers
 {: .no_toc }
 
 ## Table of contents

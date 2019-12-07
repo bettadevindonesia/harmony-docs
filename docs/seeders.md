@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Search
+title: Seeding Database
 nav_order: 7
 ---
 
-# Search
+# Seeding Database
 {: .no_toc }
 
 ## Table of contents

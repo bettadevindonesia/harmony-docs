@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Customization
+title: File Uploading
 nav_order: 6
 ---
 
-# Customization
+# File Uploading
 {: .no_toc }
 
 ## Table of contents
