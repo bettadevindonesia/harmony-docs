@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Lists
+title: Middleware
 parent: MVC
 nav_order: 5
 ---
 
-# Lists
+# Middleware
 {: .no_toc }
 
 ## Table of contents

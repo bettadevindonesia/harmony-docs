@@ -60,11 +60,13 @@ $ harmony new harmony-project # or your project name
 
 ## About the project
 
-Harmony is &copy; 2017-{{ "now" | date: "%Y" }} by [Imam Ali Mustofa](https://twitter.com/ddarkterminal).
+This project created from :shit: developers. The reason he made this project was because he was stupid and could not develop to keep up with technological trends too quickly. Back again, he was indeed a fool. And make English-language documentation with [Google Translate](https://translate.google.com/).
+
+Harmony Modern Slim Boilerplate is &copy; 2017-{{ "now" | date: "%Y" }} by [Imam Ali Mustofa](https://twitter.com/ddarkterminal).
 
 ### License
 
-Just the Docs is distributed by an [AGPL-3.0 license](https://github.com/harmony-betta/harmony/blob/master/LICENSE).
+Harmony Slim Boilerplate is distributed by an [AGPL-3.0 license](https://github.com/harmony-betta/harmony/blob/master/LICENSE).
 
 ### Contributing
 

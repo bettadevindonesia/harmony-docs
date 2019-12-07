@@ -27,6 +27,8 @@ The default Harmony application structure is intended to provide a great startin
    ├── Database
    ├── Middleware
    ├── Support
+   ├── Libraries
+   ├── Models
 ├── bootstrap
 ├── config
    ├── app.container.php
@@ -78,3 +80,19 @@ The `Database` directory contains your database migrations and seeds.
 ### The Middleware Directory
 The `Middleware` directory contains your all your middleware generate by `artisan` command. Also include core middleware for the application.
 
+### The Support Directory
+The `Support` directory contains your all the core artisan command and also can add more with you own. In `Support` directory contains Auth Scaffolding and authentication logic, core of email customization, and more.
+
+### The Libraries Directory
+The `Libraries` directory is optional and up to you, the default harmony created project come with this directory to allow you create own libraries for application.
+
+### The Models Directory
+The `Models` directory, like other framework harmony created `Models` directory after you add Auth Scaffolding using artisan command.
+
+---
+
+**Previous**
+- [See MVC - Introduction]({{ site.baseurl }}{% link docs/mvc/introduction.md %})
+
+**Next**
+- [Directory Structure]({{ site.baseurl }}{% link docs/mvc/directory-structure.md %})

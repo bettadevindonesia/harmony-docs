@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Code
+title: Models
 parent: MVC
 nav_order: 6
 ---
 
-# Code
+# Models
 {: .no_toc }
 
 ## Table of contents

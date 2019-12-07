@@ -8,5 +8,5 @@ permalink: /docs/mvc
 
 # MVC
 
-To make it as easy as possible to write documentation in plain Markdown, most UI components are styled using default Markdown elements with few additional CSS classes needed.
+Harmony Modern Slim Boilerplate MVC explaination, how it work and how to customize with your own.
 {: .fs-6 .fw-300 }
