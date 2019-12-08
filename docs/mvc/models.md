@@ -16,67 +16,52 @@ nav_order: 6
 
 ---
 
-## Inline code
+## Introduction
+The model represents the data structure. Usually the model contains functions that help someone in managing the database such as entering data into database, update data and others.
 
-Code can be rendered inline by wrapping it in single back ticks.
+![Model Illustrations](https://harmony-betta.github.io/img/models.png)
 
-<div class="code-example" markdown="1">
-Lorem ipsum dolor sit amet, `<inline code snippet>` adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-</div>
-```markdown
-Lorem ipsum dolor sit amet, `<inline code snippet>` adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+The model on Harmony is adapted from [Eloquent](https://laravel.com/docs/5.7/eloquent#eloquent-model-conventions) so it is very easy to model the data to interact with each other.
+
+## How to create Model?
+To create a model you can use artisan as a generator tool.
+
+1. Open the terminal / Commad Prompt on your computer.
+2. Navigate to your Harmony Framework project directory.
+3. Type the command `php artisan make:model <name-model>`
+4. Press Enter
+
+```bash
+$ php artisan make:model Users
+File created (Users.php) in app/Models/Users.php
 ```
 
----
+The `Users.php` file located in `app/Models` looks like this:
 
-## Syntax highlighted code blocks
+```php
+# app/Models/Users.php
+<?php
 
-Use Jekyll's built-in syntax highlighting with Rouge for code blocks by using three backticks, followed by the language name:
+namespace App\Models;
 
-<div class="code-example" markdown="1">
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
+use Illuminate\Database\Eloquent\Model;
+
+class Users extends Model
+{
+    /**
+     * Write your code
+     */
+
 }
 ```
-</div>
-{% highlight markdown %}
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-{% endhighlight %}
 
----
+everything you need to do the data interaction is already prepared.
 
-## Code blocks with rendered examples
+**hidden**
+{: .hidden}
 
-To demonstrate front end code, sometimes it's useful to show a rendered example of that code. After including the styles from your project that you'll need to show the rendering, you can use a `<div>` with the `code-example` class, followed by the code block syntax. If you want to render your output with Markdown instead of HTML, use the `markdown="1"` attribute to tell Jekyll that the code you are rendering will be in Markdown format... This is about to get meta...
+[Middleware]({{ site.baseurl }}{% link docs/mvc/middleware.md %}){: .prev-page}
+[View]({{ site.baseurl }}{% link docs/mvc/view.md %}){: .next-page}
 
-<div class="code-example" markdown="1">
-
-<div class="code-example" markdown="1">
-
-[Link button](http://example.com/){: .btn }
-
-</div>
-```markdown
-[Link button](http://example.com/){: .btn }
-```
-
-</div>
-{% highlight markdown %}
-<div class="code-example" markdown="1">
-
-[Link button](http://example.com/){: .btn }
-
-</div>
-```markdown
-[Link button](http://example.com/){: .btn }
-```
-{% endhighlight %}
+**hidden**
+{: .hidden}

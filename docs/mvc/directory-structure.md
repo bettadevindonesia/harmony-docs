@@ -89,10 +89,11 @@ The `Libraries` directory is optional and up to you, the default harmony created
 ### The Models Directory
 The `Models` directory, like other framework harmony created `Models` directory after you add Auth Scaffolding using artisan command.
 
----
+**hidden**
+{: .hidden}
 
-**Previous**
-- [See MVC - Introduction]({{ site.baseurl }}{% link docs/mvc/introduction.md %})
+[See MVC - Introduction]({{ site.baseurl }}{% link docs/mvc/introduction.md %}){: .prev-page}
+[Web Routing]({{ site.baseurl }}{% link docs/mvc/web-routing.md %}){: .next-page}
 
-**Next**
-- [Directory Structure]({{ site.baseurl }}{% link docs/mvc/directory-structure.md %})
+**hidden**
+{: .hidden}

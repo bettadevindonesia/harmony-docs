@@ -74,3 +74,12 @@ ga_tracking: UA-5555555-55
 ```
 
 and more...
+
+**hidden**
+{: .hidden}
+
+[Home]({{ site.baseurl }}/){: .prev-page}
+[MVC]({{ site.baseurl }}{% link docs/mvc/mvc.md %}){: .next-page}
+
+**hidden**
+{: .hidden}

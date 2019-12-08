@@ -127,3 +127,31 @@
 //lg: $content-width + $nav-width,
 //xl: 1400px
 //);
+
+.prev-page {
+	float: left;
+	padding: 0.5em 1em;
+	border: 1px solid #381885;
+	border-radius: 3px;
+	margin-bottom: 0.6em;
+	&:before {
+		content: '⇦ ';
+		font-weight: bold;
+	}
+}
+
+.next-page {
+	float: right;
+	padding: 0.5em 1em;
+	border: 1px solid #381885;
+	border-radius: 3px;
+	margin-bottom: 0.6em;
+	&:after {
+		content: ' ⇨';
+		font-weight: bold;
+	}
+}
+
+footer, .clearfix { clear: both; }
+.hidden { visibility: hidden; }
+.w-50 { width: 50%; margin: 3em 25%; }

@@ -31,12 +31,13 @@ Harmony Framework pre-requirement :
 - Composer (is Dependency Manager for PHP)
 - Node JS also NPM coming from.
 
-_The concept is quite simple from the Harmony Framework is a path that insha Allah can make it easier for other developers to understand it, and very friendly with beginner developers._
+_The concept is quite simple from the Harmony ~~Framework~~ Modern Slim Boilerplate is a path that insha Allah can make it easier for other developers to understand it, and very friendly with beginner developers._
 
----
+**hidden**
+{: .hidden}
 
-**Previous**
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
+[See configuration options]({{ site.baseurl }}{% link docs/configuration.md %}){: .prev-page}
+[Directory Structure]({{ site.baseurl }}{% link docs/mvc/directory-structure.md %}){: .next-page}
 
-**Next**
-- [Directory Structure]({{ site.baseurl }}{% link docs/mvc/directory-structure.md %})
+**hidden**
+{: .hidden}

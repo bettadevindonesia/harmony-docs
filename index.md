@@ -60,7 +60,7 @@ $ harmony new harmony-project # or your project name
 
 ## About the project
 
-This project created from :shit: developers. The reason he made this project was because he was stupid and could not develop to keep up with technological trends too quickly. Back again, he was indeed a fool. And make English-language documentation with [Google Translate](https://translate.google.com/).
+This project created by :shit: developer. The reason he made this project was that he was stupid and could not develop to keep up with technological trends too quickly. Back again, he was indeed a fool. And he makes English-language documentation with [Google Translate](https://translate.google.com/) and one more thing you have to know; he made this documentation on each page with the source from [Slim 3](https://www.slimframework.com/docs/v3/) and [Laravel](https://laravel.com/docs/5.7/) Documentation.
 
 Harmony Modern Slim Boilerplate is &copy; 2017-{{ "now" | date: "%Y" }} by [Imam Ali Mustofa](https://twitter.com/ddarkterminal).
 
@@ -70,5 +70,4 @@ Harmony Slim Boilerplate is distributed by an [AGPL-3.0 license](https://github.
 
 ### Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email [Betta Dev Indonesia](mailto:bettadevindonesia@gmail.com), or any other method with the owners of this repository before making a change.
+When contributing to this repository, please first discuss the change you wish to make via issue, email [Betta Dev Indonesia](mailto:bettadevindonesia@gmail.com), or any other method with the owners of this repository before making a change.

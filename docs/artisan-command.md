@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Using Artisan
-nav_order: 99
+nav_order: 8
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
