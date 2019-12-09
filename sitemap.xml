@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/configuration/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/mvc</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/mvc/introduction/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/mvc/directory-structure/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/mvc/web-routing/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/mvc/controllers/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/mvc/middleware/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/mvc/models/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/mvc/view/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/templating</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/templating/twig-templating/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/templating/gulp-runnig/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/templating/using-sass/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/templating/template-helpers/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/custom-helpers/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/file-uploading/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/seeders/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/artisan-command/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://bettadevindonesia.github.io/harmony-docs/docs/blog/</loc>
+  <lastmod>2019-12-08T02:55:57+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
